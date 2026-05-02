@@ -1,0 +1,626 @@
+[
+    {
+        "chunk_id": 0,
+        "filename": "A-1-1-1_c0.wav",
+        "detected_emotion": "fear",
+        "valence": 0.08,
+        "arousal": 0.647,
+        "dominance": -0.278
+    },
+    {
+        "chunk_id": 1,
+        "filename": "A-1-1-1_c1.wav",
+        "detected_emotion": "happy",
+        "valence": 0.139,
+        "arousal": 0.729,
+        "dominance": 0.405
+    },
+    {
+        "chunk_id": 2,
+        "filename": "A-1-1-1_c2.wav",
+        "detected_emotion": "happy",
+        "valence": 0.34,
+        "arousal": 0.656,
+        "dominance": 0.604
+    },
+    {
+        "chunk_id": 3,
+        "filename": "A-1-1-2_c0.wav",
+        "detected_emotion": "fear",
+        "valence": -0.143,
+        "arousal": 0.617,
+        "dominance": -0.014
+    },
+    {
+        "chunk_id": 4,
+        "filename": "A-1-1-2_c1.wav",
+        "detected_emotion": "angry",
+        "valence": -0.066,
+        "arousal": 1.035,
+        "dominance": 0.139
+    },
+    {
+        "chunk_id": 5,
+        "filename": "A-1-1-2_c2.wav",
+        "detected_emotion": "happy",
+        "valence": 0.32,
+        "arousal": 0.188,
+        "dominance": 0.535
+    },
+    {
+        "chunk_id": 6,
+        "filename": "A-2-1-1_c0.wav",
+        "detected_emotion": "happy",
+        "valence": 0.564,
+        "arousal": 0.619,
+        "dominance": 0.577
+    },
+    {
+        "chunk_id": 7,
+        "filename": "A-2-1-1_c1.wav",
+        "detected_emotion": "happy",
+        "valence": 0.341,
+        "arousal": 0.487,
+        "dominance": 0.435
+    },
+    {
+        "chunk_id": 8,
+        "filename": "A-2-1-1_c2.wav",
+        "detected_emotion": "happy",
+        "valence": 0.125,
+        "arousal": 0.774,
+        "dominance": 0.039
+    },
+    {
+        "chunk_id": 9,
+        "filename": "A-2-1-2_c0.wav",
+        "detected_emotion": "fear",
+        "valence": -0.456,
+        "arousal": 1.033,
+        "dominance": -0.28
+    },
+    {
+        "chunk_id": 10,
+        "filename": "A-2-1-2_c1.wav",
+        "detected_emotion": "angry",
+        "valence": -0.007,
+        "arousal": 1.008,
+        "dominance": 0.329
+    },
+    {
+        "chunk_id": 11,
+        "filename": "A-2-1-2_c2.wav",
+        "detected_emotion": "happy",
+        "valence": 0.349,
+        "arousal": 0.266,
+        "dominance": 0.575
+    },
+    {
+        "chunk_id": 12,
+        "filename": "A-3-1-1_c0.wav",
+        "detected_emotion": "neutral",
+        "valence": 0.288,
+        "arousal": 0.011,
+        "dominance": 0.284
+    },
+    {
+        "chunk_id": 13,
+        "filename": "A-3-1-1_c1.wav",
+        "detected_emotion": "angry",
+        "valence": -0.117,
+        "arousal": 0.923,
+        "dominance": 0.228
+    },
+    {
+        "chunk_id": 14,
+        "filename": "A-3-1-1_c2.wav",
+        "detected_emotion": "angry",
+        "valence": 0.08,
+        "arousal": 0.873,
+        "dominance": 0.513
+    },
+    {
+        "chunk_id": 15,
+        "filename": "F-1-1-1_c0.wav",
+        "detected_emotion": "neutral",
+        "valence": -0.073,
+        "arousal": 0.098,
+        "dominance": 0.019
+    },
+    {
+        "chunk_id": 16,
+        "filename": "F-1-1-1_c1.wav",
+        "detected_emotion": "angry",
+        "valence": -0.012,
+        "arousal": 0.88,
+        "dominance": 0.275
+    },
+    {
+        "chunk_id": 17,
+        "filename": "F-1-1-1_c2.wav",
+        "detected_emotion": "neutral",
+        "valence": -0.138,
+        "arousal": 0.235,
+        "dominance": -0.327
+    },
+    {
+        "chunk_id": 18,
+        "filename": "F-1-1-2_c0.wav",
+        "detected_emotion": "neutral",
+        "valence": -0.128,
+        "arousal": 0.158,
+        "dominance": -0.053
+    },
+    {
+        "chunk_id": 19,
+        "filename": "F-1-1-2_c1.wav",
+        "detected_emotion": "angry",
+        "valence": 0.166,
+        "arousal": 0.77,
+        "dominance": 0.518
+    },
+    {
+        "chunk_id": 20,
+        "filename": "F-1-1-2_c2.wav",
+        "detected_emotion": "fear",
+        "valence": -0.167,
+        "arousal": 1.281,
+        "dominance": -0.11
+    },
+    {
+        "chunk_id": 21,
+        "filename": "F-2-1-1_c0.wav",
+        "detected_emotion": "neutral",
+        "valence": -0.109,
+        "arousal": 0.081,
+        "dominance": 0.009
+    },
+    {
+        "chunk_id": 22,
+        "filename": "F-2-1-1_c1.wav",
+        "detected_emotion": "fear",
+        "valence": -0.302,
+        "arousal": 0.443,
+        "dominance": -0.53
+    },
+    {
+        "chunk_id": 23,
+        "filename": "F-2-1-1_c2.wav",
+        "detected_emotion": "fear",
+        "valence": -0.306,
+        "arousal": 0.752,
+        "dominance": -0.283
+    },
+    {
+        "chunk_id": 24,
+        "filename": "F-2-1-2_c0.wav",
+        "detected_emotion": "neutral",
+        "valence": 0.282,
+        "arousal": 0.303,
+        "dominance": 0.043
+    },
+    {
+        "chunk_id": 25,
+        "filename": "F-2-1-2_c1.wav",
+        "detected_emotion": "happy",
+        "valence": 0.16,
+        "arousal": 0.926,
+        "dominance": 0.127
+    },
+    {
+        "chunk_id": 26,
+        "filename": "F-2-1-2_c2.wav",
+        "detected_emotion": "fear",
+        "valence": -0.208,
+        "arousal": 1.307,
+        "dominance": -0.245
+    },
+    {
+        "chunk_id": 27,
+        "filename": "F-3-1-1_c0.wav",
+        "detected_emotion": "happy",
+        "valence": 0.144,
+        "arousal": 0.745,
+        "dominance": -0.139
+    },
+    {
+        "chunk_id": 28,
+        "filename": "F-3-1-1_c1.wav",
+        "detected_emotion": "neutral",
+        "valence": -0.057,
+        "arousal": 0.602,
+        "dominance": -0.037
+    },
+    {
+        "chunk_id": 29,
+        "filename": "F-3-1-1_c2.wav",
+        "detected_emotion": "neutral",
+        "valence": 0.211,
+        "arousal": 0.18,
+        "dominance": 0.348
+    },
+    {
+        "chunk_id": 30,
+        "filename": "H-1-1-1_c0.wav",
+        "detected_emotion": "neutral",
+        "valence": -0.059,
+        "arousal": 0.062,
+        "dominance": 0.034
+    },
+    {
+        "chunk_id": 31,
+        "filename": "H-1-1-1_c1.wav",
+        "detected_emotion": "fear",
+        "valence": -0.126,
+        "arousal": 0.742,
+        "dominance": -0.504
+    },
+    {
+        "chunk_id": 32,
+        "filename": "H-1-1-1_c2.wav",
+        "detected_emotion": "happy",
+        "valence": 0.281,
+        "arousal": 0.918,
+        "dominance": 0.044
+    },
+    {
+        "chunk_id": 33,
+        "filename": "H-1-1-2_c0.wav",
+        "detected_emotion": "neutral",
+        "valence": -0.036,
+        "arousal": 0.042,
+        "dominance": 0.042
+    },
+    {
+        "chunk_id": 34,
+        "filename": "H-1-1-2_c1.wav",
+        "detected_emotion": "happy",
+        "valence": 0.557,
+        "arousal": 0.223,
+        "dominance": 0.426
+    },
+    {
+        "chunk_id": 35,
+        "filename": "H-1-1-2_c2.wav",
+        "detected_emotion": "happy",
+        "valence": 0.547,
+        "arousal": 0.704,
+        "dominance": -0.562
+    },
+    {
+        "chunk_id": 36,
+        "filename": "H-1-1-2_c3.wav",
+        "detected_emotion": "angry",
+        "valence": 0.123,
+        "arousal": 1.146,
+        "dominance": 0.385
+    },
+    {
+        "chunk_id": 37,
+        "filename": "H-2-1-1_c0.wav",
+        "detected_emotion": "fear",
+        "valence": -0.025,
+        "arousal": 1.124,
+        "dominance": -0.71
+    },
+    {
+        "chunk_id": 38,
+        "filename": "H-2-1-1_c1.wav",
+        "detected_emotion": "happy",
+        "valence": 0.237,
+        "arousal": 0.738,
+        "dominance": 0.223
+    },
+    {
+        "chunk_id": 39,
+        "filename": "H-2-1-1_c2.wav",
+        "detected_emotion": "fear",
+        "valence": -0.115,
+        "arousal": 0.985,
+        "dominance": -0.007
+    },
+    {
+        "chunk_id": 40,
+        "filename": "H-2-1-2_c0.wav",
+        "detected_emotion": "happy",
+        "valence": 0.304,
+        "arousal": 0.843,
+        "dominance": 0.333
+    },
+    {
+        "chunk_id": 41,
+        "filename": "H-2-1-2_c1.wav",
+        "detected_emotion": "angry",
+        "valence": 0.071,
+        "arousal": 0.597,
+        "dominance": 0.395
+    },
+    {
+        "chunk_id": 42,
+        "filename": "H-2-1-2_c2.wav",
+        "detected_emotion": "happy",
+        "valence": 0.423,
+        "arousal": 1.166,
+        "dominance": 0.107
+    },
+    {
+        "chunk_id": 43,
+        "filename": "H-3-1-1_c0.wav",
+        "detected_emotion": "neutral",
+        "valence": 0.014,
+        "arousal": 0.009,
+        "dominance": 0.09
+    },
+    {
+        "chunk_id": 44,
+        "filename": "H-3-1-1_c1.wav",
+        "detected_emotion": "happy",
+        "valence": 0.502,
+        "arousal": 0.502,
+        "dominance": -0.155
+    },
+    {
+        "chunk_id": 45,
+        "filename": "H-3-1-1_c2.wav",
+        "detected_emotion": "happy",
+        "valence": 2.042,
+        "arousal": 0.188,
+        "dominance": 1.867
+    },
+    {
+        "chunk_id": 46,
+        "filename": "H-3-1-1_c3.wav",
+        "detected_emotion": "fear",
+        "valence": -0.169,
+        "arousal": 1.0,
+        "dominance": -0.09
+    },
+    {
+        "chunk_id": 47,
+        "filename": "N-1-1-1_c0.wav",
+        "detected_emotion": "neutral",
+        "valence": -0.146,
+        "arousal": 0.079,
+        "dominance": -0.019
+    },
+    {
+        "chunk_id": 48,
+        "filename": "N-1-1-1_c1.wav",
+        "detected_emotion": "happy",
+        "valence": 0.863,
+        "arousal": -0.439,
+        "dominance": 0.659
+    },
+    {
+        "chunk_id": 49,
+        "filename": "N-1-1-1_c2.wav",
+        "detected_emotion": "angry",
+        "valence": -0.179,
+        "arousal": 1.049,
+        "dominance": 0.039
+    },
+    {
+        "chunk_id": 50,
+        "filename": "N-1-1-2_c0.wav",
+        "detected_emotion": "angry",
+        "valence": 0.05,
+        "arousal": 1.2,
+        "dominance": 0.191
+    },
+    {
+        "chunk_id": 51,
+        "filename": "N-1-1-2_c1.wav",
+        "detected_emotion": "fear",
+        "valence": 0.123,
+        "arousal": 0.969,
+        "dominance": -0.176
+    },
+    {
+        "chunk_id": 52,
+        "filename": "N-1-1-2_c2.wav",
+        "detected_emotion": "neutral",
+        "valence": 0.005,
+        "arousal": 0.327,
+        "dominance": -0.092
+    },
+    {
+        "chunk_id": 53,
+        "filename": "N-2-1-1_c0.wav",
+        "detected_emotion": "happy",
+        "valence": 0.326,
+        "arousal": 0.58,
+        "dominance": 0.25
+    },
+    {
+        "chunk_id": 54,
+        "filename": "N-2-1-1_c1.wav",
+        "detected_emotion": "happy",
+        "valence": 0.617,
+        "arousal": -0.032,
+        "dominance": 0.28
+    },
+    {
+        "chunk_id": 55,
+        "filename": "N-2-1-1_c2.wav",
+        "detected_emotion": "fear",
+        "valence": -0.276,
+        "arousal": 0.694,
+        "dominance": -0.215
+    },
+    {
+        "chunk_id": 56,
+        "filename": "N-2-1-2_c0.wav",
+        "detected_emotion": "angry",
+        "valence": 0.047,
+        "arousal": 0.777,
+        "dominance": 0.239
+    },
+    {
+        "chunk_id": 57,
+        "filename": "N-2-1-2_c1.wav",
+        "detected_emotion": "neutral",
+        "valence": -0.125,
+        "arousal": 0.504,
+        "dominance": 0.066
+    },
+    {
+        "chunk_id": 58,
+        "filename": "N-2-1-2_c2.wav",
+        "detected_emotion": "neutral",
+        "valence": -0.017,
+        "arousal": 0.316,
+        "dominance": 0.124
+    },
+    {
+        "chunk_id": 59,
+        "filename": "N-3-1-1_c0.wav",
+        "detected_emotion": "neutral",
+        "valence": -0.002,
+        "arousal": 0.03,
+        "dominance": 0.05
+    },
+    {
+        "chunk_id": 60,
+        "filename": "N-3-1-1_c1.wav",
+        "detected_emotion": "happy",
+        "valence": 0.331,
+        "arousal": 0.442,
+        "dominance": 0.505
+    },
+    {
+        "chunk_id": 61,
+        "filename": "N-3-1-1_c2.wav",
+        "detected_emotion": "fear",
+        "valence": -0.179,
+        "arousal": 0.712,
+        "dominance": -0.021
+    },
+    {
+        "chunk_id": 62,
+        "filename": "S-1-1-1_c0.wav",
+        "detected_emotion": "neutral",
+        "valence": -0.084,
+        "arousal": 0.015,
+        "dominance": 0.009
+    },
+    {
+        "chunk_id": 63,
+        "filename": "S-1-1-1_c1.wav",
+        "detected_emotion": "fear",
+        "valence": -0.233,
+        "arousal": 0.641,
+        "dominance": -0.881
+    },
+    {
+        "chunk_id": 64,
+        "filename": "S-1-1-1_c2.wav",
+        "detected_emotion": "fear",
+        "valence": -0.143,
+        "arousal": 1.342,
+        "dominance": -0.19
+    },
+    {
+        "chunk_id": 65,
+        "filename": "S-1-1-1_c3.wav",
+        "detected_emotion": "fear",
+        "valence": -0.457,
+        "arousal": 0.545,
+        "dominance": -0.088
+    },
+    {
+        "chunk_id": 66,
+        "filename": "S-1-1-2_c0.wav",
+        "detected_emotion": "fear",
+        "valence": -0.327,
+        "arousal": 0.567,
+        "dominance": -0.678
+    },
+    {
+        "chunk_id": 67,
+        "filename": "S-1-1-2_c1.wav",
+        "detected_emotion": "fear",
+        "valence": -0.386,
+        "arousal": 1.174,
+        "dominance": -0.054
+    },
+    {
+        "chunk_id": 68,
+        "filename": "S-1-1-2_c2.wav",
+        "detected_emotion": "neutral",
+        "valence": 0.065,
+        "arousal": 0.408,
+        "dominance": -0.39
+    },
+    {
+        "chunk_id": 69,
+        "filename": "S-2-1-1_c0.wav",
+        "detected_emotion": "neutral",
+        "valence": -0.069,
+        "arousal": 0.06,
+        "dominance": 0.03
+    },
+    {
+        "chunk_id": 70,
+        "filename": "S-2-1-1_c1.wav",
+        "detected_emotion": "angry",
+        "valence": 0.003,
+        "arousal": 0.792,
+        "dominance": 0.094
+    },
+    {
+        "chunk_id": 71,
+        "filename": "S-2-1-1_c2.wav",
+        "detected_emotion": "angry",
+        "valence": -0.308,
+        "arousal": 0.664,
+        "dominance": 0.103
+    },
+    {
+        "chunk_id": 72,
+        "filename": "S-2-1-2_c0.wav",
+        "detected_emotion": "fear",
+        "valence": -0.369,
+        "arousal": 0.388,
+        "dominance": -0.471
+    },
+    {
+        "chunk_id": 73,
+        "filename": "S-2-1-2_c1.wav",
+        "detected_emotion": "angry",
+        "valence": -0.168,
+        "arousal": 1.07,
+        "dominance": 0.065
+    },
+    {
+        "chunk_id": 74,
+        "filename": "S-2-1-2_c2.wav",
+        "detected_emotion": "fear",
+        "valence": -0.3,
+        "arousal": 1.209,
+        "dominance": -0.726
+    },
+    {
+        "chunk_id": 75,
+        "filename": "S-3-1-1_c0.wav",
+        "detected_emotion": "neutral",
+        "valence": -0.014,
+        "arousal": -0.181,
+        "dominance": 0.162
+    },
+    {
+        "chunk_id": 76,
+        "filename": "S-3-1-1_c1.wav",
+        "detected_emotion": "neutral",
+        "valence": -0.196,
+        "arousal": 0.418,
+        "dominance": 0.158
+    },
+    {
+        "chunk_id": 77,
+        "filename": "S-3-1-1_c2.wav",
+        "detected_emotion": "neutral",
+        "valence": 0.257,
+        "arousal": 0.106,
+        "dominance": -0.191
+    }
+]
